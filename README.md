@@ -15,4 +15,5 @@ or
 # disclaimer
 
 I have datamined the actual windows cursor files from spore to make this so I'm not sure if it's even legal to distribute. I doubt EA would come after me but if this repo gets deleted you know why.
+
 There are a few problems with the current cursor like I messed up some of the images and I will fix those when I have the time.
